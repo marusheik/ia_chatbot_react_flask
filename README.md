@@ -85,8 +85,24 @@ npm run dev
 
 Once both servers are running:
 
-Backend API: http://localhost:5000
-Frontend: http://localhost:5173 (or shown by Vite)
+- Backend API: http://localhost:5000
+- Frontend: http://localhost:5173 (or shown by Vite)
+
+## 🔢 Versions
+
+```
+Python == 3.12.2
+Flask==3.1.0
+flask-cors==6.0.0
+python-dotenv==1.0.1
+langchain==0.3.20
+langchain-community==0.3.19
+langchain-core==0.3.41
+langchain-groq==0.2.4
+groq==0.18.0
+```
+
+Here are the versions I’m using, just in case you need compatibility with your Python environment
 
 
 ## Authors
