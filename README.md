@@ -58,7 +58,7 @@ you can get your own free API key in: https://console.groq.com/keys
 
 6. Run the Flask Backend
 ```
-python main.py
+flask run
 ```
 
 ## ⚛️ Frontend Setup (React)
