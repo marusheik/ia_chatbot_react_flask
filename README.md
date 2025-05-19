@@ -86,7 +86,7 @@ npm run dev
 
 ## ✅ Access the App
 
-Once both servers are running:
+Once both servers are running go to the frontend one:
 
 - Backend API: http://localhost:5000
 - Frontend: http://localhost:5173 (or shown by Vite)
