@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```
 
 5. Create a .env File
-In the root or backend folder, create a .env file with your credentials:
+create a .env file with your credentials:
 
 ```
 key = your credentials
