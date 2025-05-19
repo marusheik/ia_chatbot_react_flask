@@ -19,8 +19,8 @@ I wrote a .txt file where I included the information from my CV and my work expe
 But you can write a .txt file with anything you want, for example, it could contain frequently asked questions about a business.
 ( I didn’t upload my personalized .txt file to GitHub you’ll need to create your own )
 
-For this, I use the DeepSeek model: **deepseek-r1-distill-llama-70b**
-You’ll need an API key, which you can get for free at:
+- For this, I use the DeepSeek model: **deepseek-r1-distill-llama-70b**
+- You’ll need an API key, which you can get for free at:
 👉 https://console.groq.com/keys
 
 Also, in the main.py file, you’ll see a variable called template. This is the "prompt" or set of instructions we give the model to tell it how it should behave. I wrote a custom one based on the specific purpose I had in mind. You can delete it and write your own prompt that fits your needs.
