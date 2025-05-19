@@ -1,5 +1,10 @@
 # 🤖 AI Chatbot with React & Flask
 
+![Python](https://img.shields.io/badge/language-Python-blue)  
+![Flask](https://img.shields.io/badge/framework-Flask-black?logo=flask&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)  
+![React](https://img.shields.io/badge/framework-React-blue?logo=react&logoColor=61DAFB)
+
 This project is an AI chatbot built with **React (frontend)** and **Flask (backend)**.  
 It uses **LangChain** and **Groq** to process questions based on the content of a `.txt` file.
 
@@ -113,6 +118,4 @@ Here are the versions I’m using, just in case you need compatibility with your
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/marusheik/ia_chatbot_react_flask/blob/main/LICENSE) file for details
-
-![Python](https://img.shields.io/badge/language-Python-blue)
 
