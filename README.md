@@ -113,3 +113,6 @@ Here are the versions I’m using, just in case you need compatibility with your
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/marusheik/ia_chatbot_react_flask/blob/main/LICENSE) file for details
+
+![Python](https://img.shields.io/badge/language-Python-blue)
+
